@@ -85,42 +85,42 @@ namespace ManoPrograma
 
 
 
-                        //Console.WriteLine("Irasykite automobilio Id");
-                        //int autoId = int.Parse(Console.ReadLine());
-                        //Console.WriteLine("Irasykite automobilio Marke");
-                        //string autoMarke = Console.ReadLine();
-                        //Console.WriteLine("Irasykite automobilio Modeli");
-                        //string autoModdelis = Console.ReadLine();
-                        //Console.WriteLine("Irasykite automobilio nuomos kaina");
-                        //double autoNuomosKaina = double.Parse(Console.ReadLine());
-                        //Console.WriteLine("Ar automobilis yra elektromobilis ar varomas naftos kuru? ");
+                        ////Console.WriteLine("Irasykite automobilio Id");
+                        ////int autoId = int.Parse(Console.ReadLine());
+                        ////Console.WriteLine("Irasykite automobilio Marke");
+                        ////string autoMarke = Console.ReadLine();
+                        ////Console.WriteLine("Irasykite automobilio Modeli");
+                        ////string autoModdelis = Console.ReadLine();
+                        ////Console.WriteLine("Irasykite automobilio nuomos kaina");
+                        ////double autoNuomosKaina = double.Parse(Console.ReadLine());
+                        ////Console.WriteLine("Ar automobilis yra elektromobilis ar varomas naftos kuru? ");
 
-                        //if ()
-
-
+                        ////if ()
 
 
 
-                        //foreach (Klientas k in autonuomaService.GautiVisusKlientus())
-                        //{
-                        //    Console.WriteLine(k);
-                        //}
 
 
-                        //foreach (Automobilis a in autonuomaService.GautiVisusAutomobilius())
-                        //{
-                        //    Console.WriteLine(a);
-                        //}
+                        ////foreach (Klientas k in autonuomaService.GautiVisusKlientus())
+                        ////{
+                        ////    Console.WriteLine(k);
+                        ////}
 
-                        //Console.WriteLine("Pasirinkite automobili pagal Id sarase: ");
-                        //int autoId = int.Parse(Console.ReadLine());
 
-                        //Console.WriteLine("Iveskite kiek dienu autommobilis yra isnuomojamas: ");
-                        //int dienos = int.Parse(Console.ReadLine());
+                        ////foreach (Automobilis a in autonuomaService.GautiVisusAutomobilius())
+                        ////{
+                        ////    Console.WriteLine(a);
+                        ////}
 
-                        //autonuomaService.SukurtiNuoma(vardas, pavarde, autoId, DateTime.Now, dienos);
+                        ////Console.WriteLine("Pasirinkite automobili pagal Id sarase: ");
+                        ////int autoId = int.Parse(Console.ReadLine());
 
-                        //break;
+                        ////Console.WriteLine("Iveskite kiek dienu autommobilis yra isnuomojamas: ");
+                        ////int dienos = int.Parse(Console.ReadLine());
+
+                        ////autonuomaService.SukurtiNuoma(vardas, pavarde, autoId, DateTime.Now, dienos);
+
+                        ////break;
 
                 }
             }
